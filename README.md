@@ -34,7 +34,7 @@
 <p>(산대특) 프로젝트 기반 자바풀스택 개발과정 양성지원</p>
 
 <br>
-🎓 Education
+### 🎓 Education
 <p>춘천폴리텍대학교 전자과 | 2016.03 ~ 2018.01 | 졸업<br>
 호평고등학교 이과 | 2013.03 ~ 2016.02 | 졸업</p>
 
@@ -42,12 +42,8 @@
 ### ♾️ Connect with me
 
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
-[website]: http://febseo.dothome.co.kr
-[youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
-[instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
+[website]: https://qkrwogns77.modoo.at
 
 <br><br><br><br><br><br>
 
