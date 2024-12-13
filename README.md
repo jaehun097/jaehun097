@@ -29,21 +29,16 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#007ACC"/> 
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=#fff"/> 
 </p>
-
 <br>
-
 ### ⛺ Experiences
 <p>(산대특) 프로젝트 기반 자바풀스택 개발과정 양성지원</p>
 
 <br>
+🎓 Education
+<p>춘천폴리텍대학교 전자과 | 2016.03 ~ 2018.01 | 졸업</p> <br>
+<p>호평고등학교 이과 | 2013.03 ~ 2016.02 | 졸업</p>
 
-### 🎓 Education
-<p>xx대학교 xx과 심화전공  |  2020.03 ~ </p>
-
-
-    
 <br>
-
 ### ♾️ Connect with me
 
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
