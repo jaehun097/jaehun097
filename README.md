@@ -62,15 +62,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaehun097&show_icons=true&locale=kr" alt="jaehun097" />
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jaehun097)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaehun097)
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&locale=kr)
-
-
-
-
-
-
-
-
-
-
