@@ -63,11 +63,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jaehun097)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaehun097)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehun097&layout=compact)
-![Profile views](https://gpvc.arturio.dev/jaehun097)
-![Metrics](https://metrics.lecoq.io/jaehun097)
-![Languages](https://img.shields.io/badge/Languages-Python-blue)
-![Framework](https://img.shields.io/badge/Framework-Django-orange)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&locale=kr)
 
 
