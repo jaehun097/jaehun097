@@ -60,5 +60,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehun097&layout=donut)](https://github.com/jaehun097)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
-[![Jaehun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehun097&show_icons=true&locale=kr)]
+![Jaehun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehun097&show_icons=true&locale=kr)
 
