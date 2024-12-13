@@ -68,7 +68,7 @@
 ![Metrics](https://metrics.lecoq.io/jaehun097)
 ![Languages](https://img.shields.io/badge/Languages-Python-blue)
 ![Framework](https://img.shields.io/badge/Framework-Django-orange)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&locale=kr)
 
 
 
